@@ -36,7 +36,7 @@ export default function Home() {
             </p>
             <div className="flex gap-4">
               <Link
-                href="/catalogue"
+                href="/products"
                 className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-lg flex items-center gap-2 transition-all"
               >
                 Voir le catalogue <ChevronRight className="w-5 h-5" />
